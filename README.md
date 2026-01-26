@@ -13,3 +13,5 @@ Dependencies:
 - `com.unity.xr-line-renderer`
 - `com.unity.timeline`
 - `com.unity.textmeshpro`
+
+Created by Jason Scott Heise
