@@ -14,5 +14,4 @@ Dependencies:
 - `com.unity.timeline`
 - `com.unity.textmeshpro`
 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
